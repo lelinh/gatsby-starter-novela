@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: `Novela by Narative`,
-    name: `Narative`,
+    title: `Linken Blog`,
+    name: `Linken`,
     siteUrl: `https://novela.narative.co`,
     description: `This is my description that will be used in the meta tags and important for search results`,
     hero: {
